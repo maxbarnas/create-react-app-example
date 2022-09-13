@@ -22,7 +22,7 @@
     "eslint-plugin-flowtype": "2.50.3",
     "eslint-plugin-import": "2.26.0",
     "eslint-plugin-jsx-a11y": "2.2.3",
-    "eslint-plugin-react": "6.10.3",
+    "eslint-plugin-react": "7.31.8",
     "extract-text-webpack-plugin": "1.0.1",
     "file-loader": "0.11.2",
     "filesize": "3.6.1",
