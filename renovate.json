@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:base", "group:allNonMajor", "group:linters", "group:jsUnitTest", "group:monorepos"
+    "config:base", "group:recommended", "group:allNonMajor", "group:linters", "group:jsUnitTest", "group:monorepos"
   ]
 }
