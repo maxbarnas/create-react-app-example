@@ -39,7 +39,7 @@
     "promise": "7.3.1",
     "react-dev-utils": "0.5.2",
     "recursive-readdir": "2.2.2",
-    "rimraf": "2.7.1",
+    "rimraf": "3.0.2",
     "strip-ansi": "3.0.1",
     "style-loader": "0.23.1",
     "url-loader": "0.6.2",
