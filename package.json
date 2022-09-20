@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "autoprefixer": "10.4.10",
+    "autoprefixer": "10.4.11",
     "babel-core": "6.26.3",
     "babel-eslint": "10.1.0",
     "babel-jest": "29.0.3",
@@ -44,7 +44,7 @@
     "style-loader": "3.3.1",
     "url-loader": "4.1.1",
     "webpack": "5.74.0",
-    "webpack-dev-server": "4.11.0",
+    "webpack-dev-server": "4.11.1",
     "webpack-manifest-plugin": "5.0.0",
     "whatwg-fetch": "3.6.2"
   },
