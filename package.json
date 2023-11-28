@@ -27,7 +27,7 @@
     "file-loader": "6.2.0",
     "filesize": "10.0.5",
     "find-cache-dir": "3.3.2",
-    "fs-extra": "10.1.0",
+    "fs-extra": "11.2.0",
     "gzip-size": "7.0.0",
     "html-webpack-plugin": "5.5.0",
     "http-proxy-middleware": "2.0.6",
